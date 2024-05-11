@@ -1,13 +1,19 @@
 h1{
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 30pt;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 21pt;
   margin: 0%;
   padding: 0%;
 }
 
-p2{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+p2{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 9pt;
     margin-bottom: 0%;
     margin: 0%;
+}
+body{
+  background-color: #2e302e;
+  color: #ffffff;
+}
+h2{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
